@@ -1,11 +1,11 @@
-# Emmanuel Igwilo — AI Portfolio
-### Deep Learning · ITAI 2376 · Houston City College · Spring 2026
+# Emmanuel Igwilo  AI Portfolio
+### Deep Learning · ITAI 2376 · Houston Community College · Spring 2026
 
 ---
 
 ## About
 
-This repository documents hands-on lab work completed in **ITAI 2376: Deep Learning** as part of the AI & Robotics Program at Houston City College. Each module builds progressively from foundational neural networks through modern generative and reinforcement learning systems.
+This repository documents hands-on lab work I completed in **ITAI 2376: Deep Learning** as part of the AI & Robotics Program at Houston City College. Each module builds progressively from foundational neural networks to  modern generative and reinforcement learning systems.
 
 ---
 
@@ -31,7 +31,7 @@ Emmanuel-Igwilo-AI-Portfolio/
 
 ## Projects
 
-### Module 02 — Neural Network Foundations
+### Module 02: Neural Network Foundations
 **File:** `Module_02_Lab_02_Emmanuel_Igwilo.ipynb`
 
 Built neural networks from scratch using NumPy, then replicated the same architecture in PyTorch and TensorFlow/Keras. Explored the practical differences between dynamic (PyTorch) and static (TensorFlow) computation graphs. Dataset: Fashion-MNIST.
@@ -40,16 +40,16 @@ Built neural networks from scratch using NumPy, then replicated the same archite
 
 ---
 
-### Module 03 — CNNs for Image Classification
+### Module 03: CNNs for Image Classification
 **File:** `Module_03_Lab_Emmanuel_Igwilo.ipynb`
 
-Trained a convolutional neural network on the "Puppy or Bagel?" Kaggle dataset — a binary image classification challenge inspired by Karen Zack's viral meme. Applied transfer learning with ResNet50 and MobileNetV2.
+Trained a convolutional neural network on the "Puppy or Bagel?" Kaggle dataset, a binary image classification challenge. Applied transfer learning with ResNet50 and MobileNetV2.
 
 **Key concepts:** Convolutional layers, pooling, feature maps, transfer learning, fine-tuning, ImageDataGenerator, confusion matrices.
 
 ---
 
-### Module 05 — RNNs vs. Transformers vs. Vision Transformers
+### Module 05: RNNs vs. Transformers vs. Vision Transformers
 **File:** `Module_05_Emmanuel_Igwilo_ITAI_2376.ipynb`
 
 Head-to-head comparison of three major architecture families on the same text dataset (AG News), then extended Transformer ideas to image classification with Vision Transformers (ViT) on CIFAR-10.
@@ -64,7 +64,7 @@ Head-to-head comparison of three major architecture families on the same text da
 
 ---
 
-### Module 08 — Diffusion Models
+### Module 08: Diffusion Models
 **File:** `L08_Diffusion_Emmanuel_Igwilo_ITAI_2376.ipynb`
 
 Implemented a diffusion model to generate realistic handwritten digits from pure noise. Visualized the forward noising process and reverse denoising process step-by-step. Dataset: MNIST.
@@ -73,7 +73,7 @@ Implemented a diffusion model to generate realistic handwritten digits from pure
 
 ---
 
-### Module 09 — Reinforcement Learning Foundations
+### Module 09: Reinforcement Learning Foundations
 **File:** `ITAI_2376_Module09_Emmanuel_Igwilo_Lab.ipynb`
 
 Compared a random agent against a Q-Learning agent in the CartPole-v1 environment (Gymnasium). Observed the learning curve from random failure to stable pole balancing, then connected classical RL concepts to RLHF — the training paradigm used in LLMs like GPT-4 and Claude.
@@ -95,8 +95,8 @@ Compared a random agent against a Q-Learning agent in the CartPole-v1 environmen
 
 | Field | Detail |
 |-------|--------|
-| Course | ITAI 2376 — Deep Learning |
-| Institution | Houston City College |
+| Course | ITAI 2376  Deep Learning |
+| Institution | Houston Community College |
 | Program | AI & Robotics |
 | Semester | Spring 2026 |
 | Instructor | Patricia McManus, M.S. |
